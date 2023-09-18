@@ -1,0 +1,19 @@
+2023-09-17 21:59:35,722.v3_emitter_of_tasks.INFO ==================================================
+2023-09-17 21:59:35,723.v3_emitter_of_tasks.INFO Today is 2023-09-17 at 09:59 PM
+2023-09-17 21:59:35,744.v3_emitter_of_tasks.INFO Running on: nt Windows 10
+2023-09-17 21:59:35,747.v3_emitter_of_tasks.INFO Python version:  3.10.9
+2023-09-17 21:59:35,749.v3_emitter_of_tasks.INFO Python path: C:\Users\amaar\anaconda3
+2023-09-17 21:59:35,750.v3_emitter_of_tasks.INFO Working dir: C:\Users\amaar\OneDrive\Desktop\NW\Data Streaming\streaming-04-multiple-consumers
+2023-09-17 21:59:35,751.v3_emitter_of_tasks.INFO ==================================================
+2023-09-17 21:59:36,301.v3_emitter_of_tasks.INFO  [x] Sent First task....
+2023-09-17 21:59:36,722.v3_emitter_of_tasks.INFO Sent: First task.... to RabbitMQ.
+2023-09-17 21:59:37,083.v3_emitter_of_tasks.INFO  [x] Sent Second task....
+2023-09-17 21:59:37,429.v3_emitter_of_tasks.INFO Sent: Second task.... to RabbitMQ.
+2023-09-17 21:59:37,589.v3_emitter_of_tasks.INFO  [x] Sent Third task....
+2023-09-17 21:59:37,601.v3_emitter_of_tasks.INFO Sent: Third task.... to RabbitMQ.
+2023-09-17 21:59:37,718.v3_emitter_of_tasks.INFO  [x] Sent Forth task...
+2023-09-17 21:59:37,727.v3_emitter_of_tasks.INFO Sent: Forth task... to RabbitMQ.
+2023-09-17 21:59:37,751.v3_emitter_of_tasks.INFO  [x] Sent Fifth task...
+2023-09-17 21:59:37,761.v3_emitter_of_tasks.INFO Sent: Fifth task... to RabbitMQ.
+2023-09-17 21:59:37,801.v3_emitter_of_tasks.INFO  [x] Sent Sixth task...
+2023-09-17 21:59:37,810.v3_emitter_of_tasks.INFO Sent: Sixth task... to RabbitMQ.

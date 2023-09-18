@@ -56,5 +56,5 @@ Which worker gets which tasks?
 
 
 ## Screenshot
-
+![verifying setup](./images/1.jpg) (./images/Capture2.jpg)(./images/Capture3.jpg)(./images/Capture4.jpg)(./images/Capture5.jpg)(./images/Capture6.jpg)(./images/7.jpg)(./images/8.jpg)(./images/Capture9.jpg)(./images/10.jpg) (./images/Capture11.jpg)(./images/Capture12.jpg)(./images/Capture13.jpg)(./images/Capture14.jpg)(./images/Capture15.jpg)
 See a running example with at least 3 concurrent process windows here:
