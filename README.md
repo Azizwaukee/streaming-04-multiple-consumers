@@ -56,5 +56,7 @@ Which worker gets which tasks?
 
 
 ## Screenshot
-![verifying setup](./images/1.jpg) (./images/Capture2.jpg)(./images/Capture3.jpg)(./images/Capture4.jpg)(./images/Capture5.jpg)(./images/Capture6.jpg)(./images/7.jpg)(./images/8.jpg)(./images/Capture9.jpg)(./images/10.jpg) (./images/Capture11.jpg)(./images/Capture12.jpg)(./images/Capture13.jpg)(./images/Capture14.jpg)(./images/Capture15.jpg)
+![Alt text](Images/Capture1.JPG)![Alt text](Images/Capture2.JPG)![Alt text](Images/Capture3.JPG)![Alt text](Images/Capture4.JPG)![Alt text](Images/Capture5.JPG)![Alt text](Images/Capture6.JPG)![Alt text](Images/Capture8.JPG)![Alt text](Images/Capture9.JPG)![Alt text](Images/Capture10.JPG)![Alt text](Images/Capture11.JPG)![Alt text](Images/Capture12.JPG)![Alt text](Images/Capture13.JPG)![Alt text](Images/Capture14.JPG)![Alt text](Images/Capture15.JPG)
+
 See a running example with at least 3 concurrent process windows here:
+![Alt text](<Images/3 terminal.png>)![Alt text](<Images/all tasks.png>)
